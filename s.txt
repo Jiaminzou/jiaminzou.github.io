@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ZH-ch">
+<head>
+<title>鲁迅</title>
+</head>
+<body>
+ <table border="1" cellspacing
+<a href="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574425624754&di=7c1fbb2dcd2c956f432000fd7deb743f&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201804%2F15%2F20180415152631_UAshc.jpeg">
+<img src="https://b-ssl.duitang.com/uploads/blog/201312/04/20131204184148_hhXUT.jpeg"/>
+</a>
+</table
+</body>
+</html>
